@@ -1,10 +1,4 @@
-# Academic Design Report
-## Multi-Objective Dynamic Path Planner with D* Lite Visualizer
-
-**Author:** Alan T Robi  
-**University ID:** TCR24CS009  
-**Course:** Advanced Algorithms & Intelligent Systems / Autonomous Path Planning  
-**Date:** August 2026  
+# Design Report
 
 ---
 
