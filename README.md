@@ -1,5 +1,10 @@
 # D* Lite Dynamic Path Planner
 
+**Name:** Alan T Robi  
+**University ID:** TCR24CS009
+
+---
+
 This project implements a D* Lite based dynamic path-planning application.
 
 The submission contains separate versions for Linux and Windows.
